@@ -14,3 +14,6 @@
 - The calc_cascaded function calculates the parameters for the cascaded network by a for loop in which it calls the function calc_parameters which calculates the parameters for a single network.
 - Then the program asks the user to enter some parameters of the received end which will pass to the calc_sending_receiving function which calculates all the parameters of the sending end.
 - Finally, the program calls the efficiency and regulation functions which calculates the efficiency and voltage regulation of the cascaded network.
+
+ [trans (2).pdf](https://github.com/MazenMahmoud-IEEE/Transmission_Lines_Parameters/files/15029682/trans.2.pdf)
+
